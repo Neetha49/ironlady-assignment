@@ -6,6 +6,8 @@ This repository contains two solutions built to support Iron Lady’s customer j
 
 Task 1 – AI Leadership Journey Advisor:
 https://drive.google.com/file/d/1S6F92HMvqiZiQ1fjjmEvhZW0OiOzc64K/view?usp=sharing
+https://ironlady-assignment-8xfafjtalglcg7ucrc6cgw.streamlit.app/
 
 Task 2 – Internal Cohort Management System:
 https://drive.google.com/file/d/1D1Jo4kpC5Hog5Ou82S2l_TAKMxjORze2/view?usp=sharing
+https://ironlady-assignment-ezotfipbf4rmnzza6aqghc.streamlit.app/
